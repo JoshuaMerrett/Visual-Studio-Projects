@@ -1,0 +1,10 @@
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\Fruit_Machine_Game\Fruit_Machine_Game\bin\Debug\Fruit_Machine_Game.exe.config
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\Fruit_Machine_Game\Fruit_Machine_Game\bin\Debug\Fruit_Machine_Game.exe
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\Fruit_Machine_Game\Fruit_Machine_Game\bin\Debug\Fruit_Machine_Game.pdb
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\Fruit_Machine_Game\Fruit_Machine_Game\obj\Debug\Fruit_Machine_Game.csprojResolveAssemblyReference.cache
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\Fruit_Machine_Game\Fruit_Machine_Game\obj\Debug\Fruit_Machine_Game.Form1.resources
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\Fruit_Machine_Game\Fruit_Machine_Game\obj\Debug\Fruit_Machine_Game.Properties.Resources.resources
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\Fruit_Machine_Game\Fruit_Machine_Game\obj\Debug\Fruit_Machine_Game.csproj.GenerateResource.Cache
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\Fruit_Machine_Game\Fruit_Machine_Game\obj\Debug\Fruit_Machine_Game.csproj.CoreCompileInputs.cache
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\Fruit_Machine_Game\Fruit_Machine_Game\obj\Debug\Fruit_Machine_Game.exe
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\Fruit_Machine_Game\Fruit_Machine_Game\obj\Debug\Fruit_Machine_Game.pdb

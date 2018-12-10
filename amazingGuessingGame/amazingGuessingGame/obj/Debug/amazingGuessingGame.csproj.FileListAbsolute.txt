@@ -1,0 +1,10 @@
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\amazingGuessingGame\amazingGuessingGame\bin\Debug\amazingGuessingGame.exe.config
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\amazingGuessingGame\amazingGuessingGame\bin\Debug\amazingGuessingGame.exe
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\amazingGuessingGame\amazingGuessingGame\bin\Debug\amazingGuessingGame.pdb
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\amazingGuessingGame\amazingGuessingGame\obj\Debug\amazingGuessingGame.csprojResolveAssemblyReference.cache
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\amazingGuessingGame\amazingGuessingGame\obj\Debug\amazingGuessingGame.frmGame.resources
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\amazingGuessingGame\amazingGuessingGame\obj\Debug\amazingGuessingGame.Properties.Resources.resources
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\amazingGuessingGame\amazingGuessingGame\obj\Debug\amazingGuessingGame.csproj.GenerateResource.Cache
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\amazingGuessingGame\amazingGuessingGame\obj\Debug\amazingGuessingGame.csproj.CoreCompileInputs.cache
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\amazingGuessingGame\amazingGuessingGame\obj\Debug\amazingGuessingGame.exe
+U:\Joshua Merrett\Year 2\Event Driven Programming\Code\amazingGuessingGame\amazingGuessingGame\obj\Debug\amazingGuessingGame.pdb

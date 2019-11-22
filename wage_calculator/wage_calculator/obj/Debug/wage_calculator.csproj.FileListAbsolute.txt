@@ -1,0 +1,21 @@
+U:\Joshua Merrett\Software Development and Design\Assignment 1\wage_calculator\wage_calculator\bin\Debug\wage_calculator.exe.config
+U:\Joshua Merrett\Software Development and Design\Assignment 1\wage_calculator\wage_calculator\bin\Debug\wage_calculator.exe
+U:\Joshua Merrett\Software Development and Design\Assignment 1\wage_calculator\wage_calculator\bin\Debug\wage_calculator.pdb
+U:\Joshua Merrett\Software Development and Design\Assignment 1\wage_calculator\wage_calculator\obj\Debug\wage_calculator.csprojResolveAssemblyReference.cache
+U:\Joshua Merrett\Software Development and Design\Assignment 1\wage_calculator\wage_calculator\obj\Debug\wage_calculator.exe
+U:\Joshua Merrett\Software Development and Design\Assignment 1\wage_calculator\wage_calculator\obj\Debug\wage_calculator.pdb
+U:\Joshua Merrett\Software Development and Design\Assignment 1 - Software\wage_calculator\wage_calculator\bin\Debug\wage_calculator.exe.config
+U:\Joshua Merrett\Software Development and Design\Assignment 1 - Software\wage_calculator\wage_calculator\bin\Debug\wage_calculator.exe
+U:\Joshua Merrett\Software Development and Design\Assignment 1 - Software\wage_calculator\wage_calculator\bin\Debug\wage_calculator.pdb
+U:\Joshua Merrett\Software Development and Design\Assignment 1 - Software\wage_calculator\wage_calculator\bin\Debug\MySql.Data.dll
+U:\Joshua Merrett\Software Development and Design\Assignment 1 - Software\wage_calculator\wage_calculator\obj\Debug\wage_calculator.csprojResolveAssemblyReference.cache
+U:\Joshua Merrett\Software Development and Design\Assignment 1 - Software\wage_calculator\wage_calculator\obj\Debug\wage_calculator.exe
+U:\Joshua Merrett\Software Development and Design\Assignment 1 - Software\wage_calculator\wage_calculator\obj\Debug\wage_calculator.pdb
+C:\Users\HP\College\Software Design and Development\Assignment 1 - Software\wage_calculator\wage_calculator\bin\Debug\wage_calculator.exe.config
+C:\Users\HP\College\Software Design and Development\Assignment 1 - Software\wage_calculator\wage_calculator\bin\Debug\wage_calculator.exe
+C:\Users\HP\College\Software Design and Development\Assignment 1 - Software\wage_calculator\wage_calculator\bin\Debug\wage_calculator.pdb
+C:\Users\HP\College\Software Design and Development\Assignment 1 - Software\wage_calculator\wage_calculator\bin\Debug\MySql.Data.dll
+C:\Users\HP\College\Software Design and Development\Assignment 1 - Software\wage_calculator\wage_calculator\obj\Debug\wage_calculator.csprojResolveAssemblyReference.cache
+C:\Users\HP\College\Software Design and Development\Assignment 1 - Software\wage_calculator\wage_calculator\obj\Debug\wage_calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\College\Software Design and Development\Assignment 1 - Software\wage_calculator\wage_calculator\obj\Debug\wage_calculator.exe
+C:\Users\HP\College\Software Design and Development\Assignment 1 - Software\wage_calculator\wage_calculator\obj\Debug\wage_calculator.pdb
